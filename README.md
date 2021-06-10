@@ -1,6 +1,6 @@
 Display [Kanizsa square](https://puzzlewocky.com/optical-illusions/kanizsa-square-and-triangle-illusions/) 
 
-![](kanizsa_square.png)
+![](kanizsa-square.png)
 
 # Installation
 
@@ -22,5 +22,10 @@ or just:
     make kanizsa_square
     
    
+### TODO:
+
+Add possiblities to:
+- dynamically change the size of the circles
+- dynamically change the luminosity of the central square
 
 
